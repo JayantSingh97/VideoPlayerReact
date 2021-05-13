@@ -1,0 +1,20 @@
+.videos-continer{
+    padding: 30px;
+
+}
+
+.Header-text{
+margin-top: 50px !important;
+text-align: start !important;
+}
+.button-loader{
+    text-align: end !important;
+    margin-top: 70px !important;
+}
+
+.loader{
+    text-align: center;
+    margin-top: 80px !important;
+    display: inline;
+    font-size:x-large !important;
+}

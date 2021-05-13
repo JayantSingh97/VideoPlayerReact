@@ -1,0 +1,12 @@
+.header-icon{
+    margin-top: 2px !important;
+}
+
+.MuiInputBase-input{
+    background: white !important;
+    border: 2px solid whitesmoke !important;
+    border-radius: 6px ;
+    text-align: center;
+    width:600px !important;
+}
+
